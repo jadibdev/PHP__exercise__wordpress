@@ -1,0 +1,270 @@
+[30-Jul-2019 15:17:06 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/SynopsisValidator.php on line 92
+[30-Jul-2019 15:17:06 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/SynopsisValidator.php on line 92
+[30-Jul-2019 19:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_wp_head() in /app/public/wp-content/themes/bootstrapstarter/header.php:24
+Stack trace:
+#0 /app/public/wp-includes/template.php(722): require_once()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/bootstrapstarter/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/bootstrapstarter/header.php on line 24
+[30-Jul-2019 19:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_wp_head() in /app/public/wp-content/themes/bootstrapstarter/header.php:24
+Stack trace:
+#0 /app/public/wp-includes/template.php(722): require_once()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/bootstrapstarter/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/bootstrapstarter/header.php on line 24
+[30-Jul-2019 19:20:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_wp_head() in /app/public/wp-content/themes/bootstrapstarter/header.php:24
+Stack trace:
+#0 /app/public/wp-includes/template.php(722): require_once()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/bootstrapstarter/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/bootstrapstarter/header.php on line 24
+[30-Jul-2019 19:20:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_wp_head() in /app/public/wp-content/themes/bootstrapstarter/header.php:24
+Stack trace:
+#0 /app/public/wp-includes/template.php(722): require_once()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/bootstrapstarter/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/bootstrapstarter/header.php on line 24
+[30-Jul-2019 19:21:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_wp_head() in /app/public/wp-content/themes/bootstrapstarter/header.php:12
+Stack trace:
+#0 /app/public/wp-includes/template.php(722): require_once()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/bootstrapstarter/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/bootstrapstarter/header.php on line 12
+[31-Jul-2019 15:21:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[31-Jul-2019 15:21:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[31-Jul-2019 15:51:19 UTC] PHP Parse error:  syntax error, unexpected 'list_user_entries' (T_STRING), expecting '(' in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 40
+[31-Jul-2019 20:41:55 UTC] PHP Recoverable fatal error:  Object of class DatePeriod could not be converted to string in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 50
+[31-Jul-2019 20:43:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type DatePeriod as array in /app/public/wp-content/themes/bootstrapstarter/php_test.php:50
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 50
+[31-Jul-2019 20:44:06 UTC] PHP Fatal error:  Cannot use [] for reading in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 50
+[31-Jul-2019 20:49:17 UTC] PHP Recoverable fatal error:  Object of class DatePeriod could not be converted to string in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 54
+[31-Jul-2019 20:52:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 68
+[01-Aug-2019 16:56:59 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 48
+[01-Aug-2019 16:56:59 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 48
+[01-Aug-2019 16:56:59 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 48
+[01-Aug-2019 16:56:59 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 48
+[01-Aug-2019 16:56:59 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 48
+[01-Aug-2019 16:56:59 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 48
+[01-Aug-2019 16:56:59 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 48
+[01-Aug-2019 16:57:47 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 16:57:47 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:47 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:47 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:47 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:47 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:47 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:47 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:49 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 16:57:49 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:49 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:49 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:49 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:49 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:49 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:57:49 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 16:58:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:42 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:42 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:42 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:42 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:42 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:42 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 16:58:42 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[01-Aug-2019 17:01:47 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 17:02:05 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 17:04:51 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 17:05:12 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 17:05:27 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 17:05:36 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 17:09:36 UTC] PHP Warning:  rand() expects parameter 1 to be integer, string given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 54
+[01-Aug-2019 17:09:36 UTC] PHP Warning:  rand() expects parameter 1 to be integer, string given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 54
+[01-Aug-2019 17:09:36 UTC] PHP Warning:  rand() expects parameter 1 to be integer, string given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 54
+[01-Aug-2019 17:09:36 UTC] PHP Warning:  rand() expects parameter 1 to be integer, string given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 54
+[01-Aug-2019 17:09:36 UTC] PHP Warning:  rand() expects parameter 1 to be integer, string given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 54
+[01-Aug-2019 17:09:36 UTC] PHP Warning:  rand() expects parameter 1 to be integer, string given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 54
+[01-Aug-2019 17:09:36 UTC] PHP Warning:  rand() expects parameter 1 to be integer, string given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 54
+[01-Aug-2019 18:07:46 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 61
+[01-Aug-2019 19:29:45 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:45 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:45 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:45 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:45 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:45 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:55 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:55 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:55 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:55 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:55 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:29:55 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 56
+[01-Aug-2019 19:35:18 UTC] PHP Recoverable fatal error:  Object of class DatePeriod could not be converted to string in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 51
+[01-Aug-2019 19:35:32 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type DatePeriod as array in /app/public/wp-content/themes/bootstrapstarter/php_test.php:51
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 51
+[01-Aug-2019 20:22:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 82
+[01-Aug-2019 20:32:21 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:32:21 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:32:21 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:32:21 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:32:21 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:32:21 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:32:21 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:32:21 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:35:10 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:35:10 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /app/public/wp-content/themes/bootstrapstarter/php_test.php:64
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 64
+[01-Aug-2019 20:36:27 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /app/public/wp-content/themes/bootstrapstarter/php_test.php:58
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 58
+[01-Aug-2019 20:44:03 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:44:03 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:44:03 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:44:03 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:44:03 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:44:03 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:44:03 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:44:03 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 20:54:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function isWeekend(), 0 passed in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 55 and exactly 1 expected in /app/public/wp-content/themes/bootstrapstarter/php_test.php:52
+Stack trace:
+#0 /app/public/wp-content/themes/bootstrapstarter/php_test.php(55): isWeekend()
+#1 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 52
+[01-Aug-2019 20:58:30 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 20:58:47 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 20:59:06 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 20:59:27 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 20:59:37 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 21:00:09 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 21:00:09 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 21:00:33 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 21:00:33 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 53
+[01-Aug-2019 21:02:36 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 39
+[01-Aug-2019 22:03:40 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 43
+[01-Aug-2019 22:03:40 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 44
+[01-Aug-2019 22:07:07 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:07 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:07 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:07 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:07 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:07 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:19 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:19 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:19 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:19 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:19 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:07:19 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:10:46 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:10:46 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:10:46 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:10:46 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:10:46 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:10:46 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:10:46 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:10:46 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:07 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:07 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:07 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:07 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:07 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:07 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:07 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:07 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:11 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:11 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:11 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:11 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:11 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:11 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:11 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:11:11 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:24:20 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 58
+[01-Aug-2019 22:53:35 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[01-Aug-2019 22:54:08 UTC] PHP Warning:  Illegal offset type in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 67
+[02-Aug-2019 13:52:40 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 44
+[02-Aug-2019 13:52:40 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 45
+[02-Aug-2019 13:54:33 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 44
+[02-Aug-2019 13:54:33 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 45
+[02-Aug-2019 13:56:59 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 44
+[02-Aug-2019 13:56:59 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 45
+[02-Aug-2019 14:13:32 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 44
+[02-Aug-2019 14:13:32 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 45
+[02-Aug-2019 14:18:11 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 44
+[02-Aug-2019 14:18:11 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 45
+[02-Aug-2019 14:25:58 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 44
+[02-Aug-2019 14:25:58 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 45
+[02-Aug-2019 14:26:17 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 45
+[02-Aug-2019 14:34:43 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 44
+[02-Aug-2019 14:34:43 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 45
+[02-Aug-2019 14:50:33 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 47
+[02-Aug-2019 14:50:33 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 48
+[02-Aug-2019 14:54:33 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 47
+[02-Aug-2019 14:54:33 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 48
+[02-Aug-2019 19:17:39 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 49
+[02-Aug-2019 19:17:39 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/bootstrapstarter/php_test.php on line 50
+[02-Aug-2019 19:44:24 UTC] PHP Warning:  include(/Front_end_img_styles.css): failed to open stream: No such file or directory in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 2
+[02-Aug-2019 19:44:24 UTC] PHP Warning:  include(): Failed opening '/Front_end_img_styles.css' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 2
+[02-Aug-2019 19:44:46 UTC] PHP Warning:  include(/Front_end_img_styles.css): failed to open stream: No such file or directory in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 2
+[02-Aug-2019 19:44:46 UTC] PHP Warning:  include(): Failed opening '/Front_end_img_styles.css' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 2
+[02-Aug-2019 20:40:22 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 17
+[02-Aug-2019 20:58:05 UTC] PHP Warning:  include(styles.css): failed to open stream: No such file or directory in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 3
+[02-Aug-2019 20:58:05 UTC] PHP Warning:  include(): Failed opening 'styles.css' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 3
+[02-Aug-2019 20:58:58 UTC] PHP Warning:  include(bootstratpstarter/style.css): failed to open stream: No such file or directory in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 3
+[02-Aug-2019 20:58:58 UTC] PHP Warning:  include(): Failed opening 'bootstratpstarter/style.css' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 3
+[02-Aug-2019 20:59:19 UTC] PHP Warning:  include(./style.css): failed to open stream: No such file or directory in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 3
+[02-Aug-2019 20:59:19 UTC] PHP Warning:  include(): Failed opening './style.css' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 3
+[02-Aug-2019 21:00:29 UTC] PHP Warning:  include(./style.css): failed to open stream: No such file or directory in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 3
+[02-Aug-2019 21:00:29 UTC] PHP Warning:  include(): Failed opening './style.css' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 3
+[02-Aug-2019 21:00:45 UTC] PHP Warning:  include(./style.css): failed to open stream: No such file or directory in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 3
+[02-Aug-2019 21:00:45 UTC] PHP Warning:  include(): Failed opening './style.css' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/bootstrapstarter/Front_End_img.php on line 3

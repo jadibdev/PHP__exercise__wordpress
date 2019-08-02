@@ -1,0 +1,14 @@
+{
+  "name": "bootstrapstarter",
+  "version": "1.0.0",
+  "description": "wordpress_theme_bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
